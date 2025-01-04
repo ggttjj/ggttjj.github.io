@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>ts</title>
+      <link href="/2025/01/04/%E7%AC%94%E8%AE%B0/ts/"/>
+      <url>/2025/01/04/%E7%AC%94%E8%AE%B0/ts/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="ts"><a href="#ts" class="headerlink" title="ts"></a>ts</h1><h2 id="1-数组"><a href="#1-数组" class="headerlink" title="1. 数组"></a>1. 数组</h2><hr><p>let arr: string[]<br>arr &#x3D; [‘a’, ‘b’, ‘c’]<br>let arr: Array<string> 泛型写法</p><hr>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>概率统计</title>
       <link href="/2025/01/01/%E7%AC%94%E8%AE%B0/1/"/>
       <url>/2025/01/01/%E7%AC%94%E8%AE%B0/1/</url>
@@ -34,7 +47,7 @@
       <link href="/2024/12/31/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/"/>
       <url>/2024/12/31/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>关清文</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>关清文向郭恬婧道歉 </p>]]></content>
       
       
       
