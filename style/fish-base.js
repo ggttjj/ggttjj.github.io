@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>var RENDERER = {
+var RENDERER = {
 	POINT_INTERVAL : 5,
 	FISH_COUNT : 3,
 	MAX_INTERVAL_COUNT : 50,

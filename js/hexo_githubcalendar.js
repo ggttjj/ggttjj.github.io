@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>function GithubCalendar(git_githubapiurl,git_color,git_user){
+function GithubCalendar(git_githubapiurl,git_color,git_user){
     if(document.getElementById('github_container')){
         var github_canlendar = (git_user,git_githubapiurl, git_color) => {
             var git_fixed = 'fixed';
